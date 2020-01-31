@@ -2,6 +2,10 @@
   "name": "hackathon",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "yarn": "^1.19.0",
+    "node": "^10.16.3"
+  },
   "dependencies": {
     "cloudinary": "^1.14.0",
     "cloudinary-react": "^1.1.0",
